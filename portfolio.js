@@ -3,6 +3,7 @@ setTimeout(()=>{
         $(".latice").css("opacity","0");
         setTimeout(()=>{
             $(".onoKaoBasSve").css("opacity","1");
+            $("body").css("background-color","var(--boja3)");
         },500);
     }
     document.onload=load();

@@ -54,12 +54,12 @@ body{
     margin-top: 0.5em;
 }
 .sve a{
-    color: var(--boja4);
+    color: var(--boja1);
     font-size: 20px;
 }
 .sve a:hover{
     text-shadow: 
-    0px 0px 10px var(--boja4),
-    0px 0px 10px var(--boja4);
+    0px 0px 10px var(--boja1),
+    0px 0px 10px var(--boja1);
     cursor: pointer;
 }   
